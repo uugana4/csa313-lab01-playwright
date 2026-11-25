@@ -1,5 +1,7 @@
 # Лаб 1: Playwright UI автомат тест (F.CSA313)
 
+**Оюутан:** А.Ууганбаяр (B242270014)
+
 [saucedemo.com](https://www.saucedemo.com) демо дэлгүүрийг Playwright (TypeScript) ашиглан автоматаар тестлэв.
 
 ## Юу хийсэн
